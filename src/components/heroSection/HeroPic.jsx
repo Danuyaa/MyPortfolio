@@ -12,7 +12,7 @@ const HeroPic = () => {
       className=" h-full flex items-center justify-center "
     >
       <img
-        src="/src/assets/da.png"
+        src="/images/da.png"
         alt="Danuar Ihza Mahendra"
         className="max-h-[450px] w-auto"
       />
